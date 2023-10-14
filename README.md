@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Looking a job for **Frontend Developer**
 
-- 🌱 I’m currently learning **Javascript, Tailwind, React.js**
+- 🌱 I’m currently learning **Javascript, Tailwind, React**
 
 - 📫 How to reach me **petra.mainacc@gmail.com**
 

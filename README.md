@@ -3,7 +3,7 @@
 
 <figure>
   <p align="center">
-    <img src="./assets/img/profile.jpeg"
+    <img src="./img/profile.jpeg"
          alt="Profile Picture" width="200" style="border-radius: 50%">
   </p>
 </figure>
@@ -20,11 +20,11 @@
 
 ### Connect with me:
 
-[![social media](./assets/img/linkedin-dark.svg)](https://www.linkedin.com/in/petra-juliansen/)
-[![social media](./assets/img/linkedin-light.svg)](https://www.linkedin.com/in/petra-juliansen/)
+[![social media](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petra-juliansen/)
+[![social media](./img/linkedin-light.svg)](https://www.linkedin.com/in/petra-juliansen/)
 &nbsp;&nbsp;
-[![social media](./assets/img/instagram-dark.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==)
-[![social media](./assets/img/instagram-light.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==)
+[![social media](./img/instagram-dark.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==)
+[![social media](./img/instagram-light.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==)
 
 ### Languages and Tools:
 

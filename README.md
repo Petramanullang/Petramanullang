@@ -6,11 +6,13 @@
 
 ## Im a Front-End Developer, Student, Gamer!!
 
-- 🔭I'm currently looking for a job as a Frontend Developer.
-- 🌱I'm currently learning JavaScript, Tailwind, and React.
-- 📫How to reach me: petra.mainacc@gmail.com
+🔭 &emsp;I'm currently looking for a job as a Frontend Developer.
+<br /><br />
+🌱 &emsp;I'm currently learning JavaScript, Tailwind, and React.
+<br><br />
+📫 &emsp;How to reach me: petra.mainacc@gmail.com
 
-### Connect with me:
+## Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/petra-juliansen/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/petra-juliansen/#gh-dark-mode-only)
@@ -18,7 +20,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/izanami.acc?igshid=NGVhN2U2NjQ0Yg==#gh-dark-mode-only)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -37,13 +39,16 @@
 ---
 
 <details>
-  <summary>Language</summary>
+
+  <summary><strong>Language</strong></summary>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </details>
 
+<br />
+
 <details>
-  <summary>Github Stats</summary>
+  <summary><strong>Github Stats</strong></summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=petramanullang&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>

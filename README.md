@@ -37,13 +37,13 @@
 ---
 
 <details>
-  <summary>Language I use most often</summary>
+  <summary>Language</summary>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </details>
 
 <details>
-  <summary>Github Status</summary>
+  <summary>Github Stats</summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=petramanullang&show_icons=true&locale=en" alt="GitHub Stats" />
 </details>

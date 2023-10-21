@@ -30,7 +30,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Tailwind" width="26px" src="./img/tailwind-css.svg" style="padding-right:10px; padding-top: 6px" />
+<img align="left" alt="Tailwind" width="26px" src="./img/tailwind-css.svg" style="padding-right:10px; padding-top: 10px" />
 
 <img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap.png" style="padding-right:10px;" />
 

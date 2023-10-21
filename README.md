@@ -38,14 +38,14 @@
 
 ---
 
+<br />
+
 <details>
 
   <summary><strong>Language</strong></summary>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </details>
-
-<br />
 
 <details>
   <summary><strong>Github Stats</strong></summary>

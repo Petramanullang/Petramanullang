@@ -2,7 +2,6 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petramanullang&label=Profile%20views&color=192655" alt="petramanullang" /> </p>
 
 ## Im a Front-End Developer, Student, Gamer!!
 

@@ -1,14 +1,10 @@
-<h1 align="center">Hi there 👋 <br> <span style="color:aqua">I'm Petra Juliansen Manullang</span> </h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
-
-  <p align="center">
-    <img src="./img/Profile.jpeg"
-         alt="Profile Picture" width="200" style="border-radius: 50%">
-  </p>
+# Hi there 👋, I'm Petra Juliansen Manullang
 
 <br />
 
-## Im a Student, Gamer, Coder
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petramanullang&label=Profile%20views&color=192655" alt="petramanullang" /> </p>
+
+## Im a Front-End Developer, Student, Gamer!!
 
 - 🔭I'm currently looking for a job as a Frontend Developer.
 - 🌱I'm currently learning JavaScript, Tailwind, and React.

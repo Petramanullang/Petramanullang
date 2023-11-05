@@ -55,7 +55,7 @@
 
   <summary><strong>Language</strong></summary>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&theme=github_dark)
 </details>
 
 <details>

@@ -2,8 +2,6 @@
 
 <br />
 
-## Im a Front-End Developer, Student, Gamer!!
-
 🔭 &emsp;I'm currently looking for a job as a Frontend Developer.
 <br /><br />
 🌱 &emsp;I'm currently learning ReactJS and NextJS.

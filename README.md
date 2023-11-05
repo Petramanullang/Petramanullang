@@ -42,20 +42,7 @@
 
 <br />
 <br />
-
----
-
 <br />
 
-<details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&theme=github_dark)
 
-  <summary><strong>Language</strong></summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&theme=github_dark)
-</details>
-
-<details>
-  <summary><strong>Github Stats</strong></summary>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=petramanullang&show_icons=true&locale=en" alt="GitHub Stats" />
-</details>

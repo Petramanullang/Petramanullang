@@ -8,7 +8,7 @@
 
 🔭 &emsp;I'm currently looking for a job as a Frontend Developer.
 <br /><br />
-🌱 &emsp;I'm currently learning JavaScript, Tailwind, and React.
+🌱 &emsp;I'm currently learning ReactJS and NextJS.
 <br><br />
 📫 &emsp;How to reach me: petra.mainacc@gmail.com
 

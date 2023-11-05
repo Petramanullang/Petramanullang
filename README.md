@@ -42,6 +42,8 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
+<img align="left" alt="Node.js" width="26px" src="./img/react.svg"/>
+
 <br />
 <br />
 

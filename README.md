@@ -30,8 +30,6 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Tailwind" width="26px" src="./img/tailwind-css.svg" style="position:relative;top:6px"/>
-
 <img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap.png"/>
 
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -42,7 +40,9 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
-<img align="left" alt="Node.js" width="26px" src="./img/react.svg"/>
+<img align="left" alt="Tailwind" width="26px" src="./img/tailwind-css.svg" style="position:relative;top:6px"/>
+
+<img align="left" alt="React.js" width="26px" src="./img/react.svg"/>
 
 <br />
 <br />

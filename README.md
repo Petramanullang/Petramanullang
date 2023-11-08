@@ -1,4 +1,4 @@
-<p align="center"><a href=""><img width="80px" src="./img/profile.png" /></a></p>
+<p align="center"><a href=""><img width="80px" src="./img/Profile.png" /></a></p>
 
 # FrontEnd enthusiast. Love to learn, share, and create.
 

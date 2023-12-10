@@ -1,15 +1,16 @@
 <img src="./Banner1.png" width="100%">
 
-<h2>
-  FrontEnd enthusiast. Love to learn, share, and create.
+<h2 align="center">
+  FrontEnd enthusiast. Love to learn, share, and Wanna be Fullstack Dev.
 </h2>
 
 <br />
 
-<h2>
+<h2 align="center">
   📨 Social Media
 </h2>
 
+<p align="center">
 <a href="https://www.instagram.com/codewithpetra/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </a>
@@ -19,6 +20,7 @@
 <a href="mailto:petra.juliansen31@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
+</p>
 
 <br>
 
@@ -30,8 +32,17 @@
 
 <br />
 
-<h2>
+<h2 align="center">
+  📈 Stats
+</h2>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=petramanullang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" alt="Petra's github stats" /> | <img src="https://streak-stats.demolab.com?user=petramanullang&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="streak graph"  /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<h2 align="center">
   📢 Language
 </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&theme=github_dark)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petramanullang&theme=github_dark" alt="Language">
+</p>

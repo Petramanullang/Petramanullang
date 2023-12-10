@@ -4,14 +4,11 @@
 
 <img src="./Banner1.png" width="100%">
 
-<br/>
-
 <h2 align="center">
   📨 Social Media
 </h2>
 
 <br/>
-
 
 <p align="center">
 <a href="https://www.instagram.com/codewithpetra/" target="_blank" rel="noopener noreferrer">

@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   FrontEnd enthusiast. Love to learn, share, and Wanna be Fullstack Dev.
-</h1>
+</h2>
 
 <img src="./Banner1.png" width="100%">
 

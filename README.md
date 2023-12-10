@@ -20,7 +20,7 @@
 </a>
 </p>
 
-<h2>
+<h2 align="center">
   🛠 Operating System and Development Tools
 </h2>
 

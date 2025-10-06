@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-<a href="https://www.instagram.com/codewithpetra/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/petrajuliansenm/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
 </a>
 <a href="https://www.linkedin.com/in/petra-juliansen/" target="_blank" rel="noopener noreferrer">
